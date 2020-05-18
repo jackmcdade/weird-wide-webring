@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Tandy';
+    src:  url('/Px437_TandyOld_TV.ttf') format('truetype');
+  }
+
+* {
+    box-sizing: border-box;
+    -webkit-font-smoothing: none;
+    font-family: 'Tandy', Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #c0c0c0;
+    padding: 32px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+p {
+    margin-bottom: 2em;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 64px 0;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 64px 0;
+    line-height: 1.25;
+}
+
+.box {
+    background: silver;
+    box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
+    color: #222;
+    display: block;
+    font-size: 14px;
+    padding: 12px;
+    min-height: 23px;
+    text-align: center;
+    text-decoration: none;
+    width: 50%;
+}
+
+.box:active {
+    box-shadow: inset -1px -1px #fff, inset 1px 1px #0a0a0a, inset -2px -2px #dfdfdf, inset 2px 2px grey;
+    padding: 18px 11px 0 6px 13px;
+}
+
+.box:focus {
+    outline: 1px dotted #000;
+    outline-offset: -6px;
+}
+
+::-webkit-scrollbar {
+    width: 16px;
+}
+
+::-webkit-scrollbar-corner {
+    background: #dfdfdf;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #dfdfdf;
+    box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
+}
+
+::-webkit-scrollbar-track {
+    background-image: url(data:image/svg+xml;charset=utf-8,%3Csvg width='2' height='2' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M1 0H0v1h1v1h1V1H1V0z' fill='silver'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M2 0H1v1H0v1h1V1h1V0z' fill='%23fff'/%3E%3C/svg%3E);
+}

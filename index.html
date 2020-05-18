@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weird Wide Webring</title>
+    <meta name="description" content="The web needs a little more weird. These sites are helping.">
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <script src="/sites.js"></script>
+    <script src="/functions.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+</head>
+<body x-data="sites = getSites()">
+    <h1>Weird Wide Webring</h1>
+    <p>The web needs a little more weird. These sites are helping.</p>
+    <div class="list">
+        <template x-for="(site, index) in sites" :key="index">
+            <a class="box" :href="site.url + '?ref=weirdwideweb'" x-text="site.name"></a>
+        </template>
+    </div>
+    <p><a href="/join.html">Want to join?</a></p>
+</body>
+</html>
