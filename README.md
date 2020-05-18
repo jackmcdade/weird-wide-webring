@@ -4,7 +4,7 @@ The web needs a little more weird. These sites are helping.
 
 ## How to submit your site
 
-Fork this repo, add your site's name and URL to the [sites.js](https://github.com/jackmcdade/weird-wide-webring/blob/master/sites.js) file, and send us a pull request with why you want to join. That's it. If you're weird enough and want it enough, I'll let you in. 
+Fork this repo, add your site's name and URL to the [sites.js](https://github.com/jackmcdade/weird-wide-webring/blob/master/sites.js) file, and send me a pull request with why you want to join. That's it. If you're weird enough and want it enough, I'll let you in. 
 
 _(I accept bribes of all sorts.)_
 
