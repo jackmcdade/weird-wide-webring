@@ -13,6 +13,7 @@ body {
     background: #c0c0c0;
     padding: 32px;
     text-align: center;
+    image-rendering: pixelated;
 }
 
 h1 {
@@ -59,6 +60,12 @@ p {
 .box:focus {
     outline: 1px dotted #000;
     outline-offset: -6px;
+}
+
+.github {
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 ::-webkit-scrollbar {
