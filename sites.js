@@ -1,6 +1,7 @@
 let sites = [
     { name: "Jack McDade", url: 'https://jackmcdade.com'},
     { name: "Paul Jarvis", url: 'https://pjrvs.com'},
+    { name: "Mighty Fine Copy", url: 'https://www.mightyfinecopy.com/'},
     { name: "Jesse Leite", url: 'https://jesseleite.com'},
     { name: "Miguel Piedrafita", url: 'https://miguelpiedrafita.com'},
     { name: "David A. Lindahl", url: 'https://davidalindahl.com'},
