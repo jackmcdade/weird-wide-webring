@@ -4,4 +4,5 @@ let sites = [
     { name: "Jesse Leite", url: 'https://jesseleite.com'},
     { name: "Miguel Piedrafita", url: 'https://miguelpiedrafita.com'},
     { name: "David A. Lindahl", url: 'https://davidalindahl.com'},
+    { name: "Lorenzo Bersano", url: 'https://lorenzobersano.com'},
 ]
