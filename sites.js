@@ -70,4 +70,8 @@ let sites = [
         url: 'https://aaronfrancis.com/',
         because: "Has a wierd list of things that work when broken."
     },
+    {
+        name: "Scott Zirkel",
+        url: 'https://scottzirkel.com'
+    }
 ]
