@@ -9,5 +9,5 @@ let sites = [
     { name: "Teevio", url: 'https://teev.io'},
     { name: "Jamie Howard", url: 'https://jamiehoward.co'},
     { name: "Luigi Battaglioli", url: 'https://theluigi.com'},
-    { name: "Matt Lantz", url: 'https://mattlantz.ca'},
+    { name: "Matt Lantz", url: 'https://mattlantz.ca'}
 ]
