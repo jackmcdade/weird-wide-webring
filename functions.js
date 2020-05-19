@@ -8,7 +8,7 @@ function getReferringSite() {
     if (urlParams.has('referrer')) {
         return 'https://' + urlParams.get('referrer');
     } else if (document.referrer !== '') {
-        return document.referrer.replace(/\/$/, "")
+        return 'https://' + new URL(document.referrer).host
     }
 
     return getRandomSite()
