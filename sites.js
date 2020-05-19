@@ -72,6 +72,7 @@ let sites = [
     },
     {
         name: "Scott Zirkel",
-        url: 'https://scottzirkel.com'
+        url: 'https://scottzirkel.com',
+        because: "He-Man parodies. Obviously."
     }
 ]
