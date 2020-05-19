@@ -17,7 +17,10 @@
     <p>The web needs a little more weird. These sites are helping.</p>
     <div class="list">
         <template x-for="(site, index) in sites" :key="index">
-            <a class="box" :href="site.url + '?ref=weirdwidewebring'" x-text="site.name"></a>
+            <a class="box" :href="site.url + '?ref=weirdwidewebring'">
+                <span class="name" x-text="site.name"></span>
+                <span class="because" x-text="'HERE BECAUSE: ' + site.because"></span>
+            </a>
         </template>
     </div>
     <p><a href="/join.html">Want to join?</a></p>
