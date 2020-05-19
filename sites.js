@@ -12,4 +12,5 @@ let sites = [
     { name: "Matt Lantz", url: 'https://mattlantz.ca'},
     { name: "David Llop", url: 'https://davidllop.com'},
     { name: "Colin Dismuke", url: 'https://www.colindismuke.com'},
+    { name: "Ross Wintle", url: 'https://rosswintle.uk/'},
 ]
