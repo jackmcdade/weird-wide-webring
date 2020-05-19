@@ -24,6 +24,13 @@ If you want in, you should display your webring links with pride. Rather than re
 
 The link will work out your position in the list and redirect visitors to the next site in the webring.
 
+## Links API
+
+You can retrieve a list of the webring links (next/previous/random/list/join) as either an HTML unstyled-list partial or a JSON file from:
+
+* [HTML](https://weirdwidewebring.net/links.html)
+* [JSON](https://weirdwidewebring.net/links.json)
+
 ## Privacy First
 
 We don't collect or store any information beyond the list of sites themselves. This is for fun, not for profit.
