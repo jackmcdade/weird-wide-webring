@@ -74,5 +74,10 @@ let sites = [
         name: "Scott Zirkel",
         url: 'https://scottzirkel.com',
         because: "He-Man parodies. Obviously."
+    },
+    {
+        name: "Ben Leivian",
+        url: 'https://benleivian.com/',
+        because: "Five all-beef patties, special sauce, lettuce, chee—"
     }
 ]
