@@ -79,5 +79,10 @@ let sites = [
         name: "Ben Leivian",
         url: 'https://benleivian.com/',
         because: "Five all-beef patties, special sauce, lettuce, chee—"
+    },
+    {
+        name: "Dave Smyth",
+        url: 'https://davesmyth.com',
+        because: "Font switcher. Colours. Side projects."
     }
 ]
