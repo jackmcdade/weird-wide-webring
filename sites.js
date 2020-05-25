@@ -1,4 +1,9 @@
 let sites = [
+     {
+        name: "ZPKG",
+        url: 'http://zpkg.plash.io/',
+        because: "Bright colors on black with organic feel"
+    },
     {
         name: "Jack McDade",
         url: 'https://jackmcdade.com',
