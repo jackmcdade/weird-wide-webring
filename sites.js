@@ -84,5 +84,10 @@ let sites = [
         name: "Dave Smyth",
         url: 'https://davesmyth.com',
         because: "Font switcher. Colours. Side projects."
+    },
+    {
+        name: "Danny de Vries",
+        url: 'https://dandevri.es',
+        because: "ASCII art rocks."
     }
 ]
