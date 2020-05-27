@@ -89,5 +89,10 @@ let sites = [
         name: "Danny de Vries",
         url: 'https://dandevri.es',
         because: "ASCII art rocks."
+    },
+    {
+        name: "ZPKG",
+        url: 'http://zpkg.plash.io/',
+        because: "Bright colors on black with organic feel"
     }
 ]
