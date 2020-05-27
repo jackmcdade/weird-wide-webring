@@ -1,9 +1,4 @@
 let sites = [
-     {
-        name: "ZPKG",
-        url: 'http://zpkg.plash.io/',
-        because: "Bright colors on black with organic feel"
-    },
     {
         name: "Jack McDade",
         url: 'https://jackmcdade.com',
@@ -89,5 +84,10 @@ let sites = [
         name: "Dave Smyth",
         url: 'https://davesmyth.com',
         because: "Font switcher. Colours. Side projects."
+    },
+    {
+        name: "ZPKG",
+        url: 'http://zpkg.plash.io/',
+        because: "Bright colors on black with organic feel"
     }
 ]
