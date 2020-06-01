@@ -94,5 +94,10 @@ let sites = [
         name: "ZPKG",
         url: 'http://zpkg.plash.io/',
         because: "Bright colors on black with organic feel"
+    },
+    {
+        name: "Blain Smith",
+        url: 'https://blainsmith.com',
+        because: "Text only for life."
     }
 ]
