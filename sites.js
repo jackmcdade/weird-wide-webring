@@ -99,5 +99,10 @@ let sites = [
         name: "Blain Smith",
         url: 'https://blainsmith.com',
         because: "Text only for life."
+    },
+    {
+        name: "Fatih Altinok",
+        url: 'https://blog.6nok.org',
+        because: "Who doesn't like anagrams?"
     }
 ]
