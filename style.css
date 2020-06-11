@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Tandy';
     src:  url('/Px437_TandyOld_TV.ttf') format('truetype');
-  }
+}
 
 * {
     box-sizing: border-box;
@@ -78,6 +78,24 @@ p {
     position: absolute;
     top: 0;
     right: 0;
+}
+
+#hit-counter {
+    background: black;
+    color: red;
+    font-family: Orbitron, sans-serif;
+    font-size: 18px;
+    display: inline-block;
+    padding: 2px 20px 3px;
+    letter-spacing: 5px;
+    text-decoration: none;
+    text-shadow: 0 0 10px red;
+    margin-top: 32px;
+}
+
+#hit-counter:hover {
+    color: greenyellow;
+    text-shadow: 0 0 10px greenyellow;
 }
 
 ::-webkit-scrollbar {

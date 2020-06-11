@@ -31,3 +31,15 @@ function getPreviousSite() {
 function getRandomSite() {
     return sites[Math.floor(Math.random() * sites.length)].url
 }
+
+function getCounterStats() {
+    fetch('https://app.usefathom.com/vip/jack-mcdade')
+        .then(response => response.json())
+        .then(function(data) {
+            document.querySelectorAll('#hit-counter')[0].innerHTML = zeroPad(data, 7);
+        })
+}
+
+getCounterStats()
+
+const zeroPad = (num, places) => String(num).padStart(places, '0')
