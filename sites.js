@@ -100,4 +100,9 @@ let sites = [
         url: 'https://blainsmith.com',
         because: "Text only for life."
     }
+     {
+        name: "Greg McVerry",
+        url: 'https://jgregorymcverry.com/mypoetry',
+        because: "Weird MultiMedia Poetry"
+    }
 ]
