@@ -99,10 +99,15 @@ let sites = [
         name: "Blain Smith",
         url: 'https://blainsmith.com',
         because: "Text only for life."
-    }
-     {
+    },
+    {
         name: "Greg McVerry",
         url: 'https://jgregorymcverry.com/mypoetry',
         because: "Weird MultiMedia Poetry"
+    },
+    {
+        name: "Nathaniel Houk",
+        url: 'http://linuxdeveloper.io',
+        because: "Unique programming projects from decades ago."
     }
 ]
