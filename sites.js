@@ -109,5 +109,10 @@ let sites = [
         name: "Nathaniel Houk",
         url: 'http://linuxdeveloper.io',
         because: "Unique programming projects from decades ago."
+    },
+    {
+        name: "Gregory Hammond",
+        url: 'https://gregoryhammond.ca',
+        because: "Canadian geek who is trying to be unbiased, yet still talk about tech."
     }
 ]
