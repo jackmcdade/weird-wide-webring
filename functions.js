@@ -16,7 +16,7 @@ function getReferringSite() {
 
 function getNextSite() {
     var index = sites.findIndex(element => element.url === getReferringSite())
-    var site = sites[index + 1] ?? sites[0]
+    var site = sites[index + 1] || sites[0]
 
     return site.url
 }
