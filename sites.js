@@ -115,4 +115,9 @@ let sites = [
         url: 'https://gregoryhammond.ca',
         because: "Canadian geek who is trying to be unbiased, yet still talk about tech."
     }
+    {
+        name: "Kev Quirk",
+        url: 'https://kevq.uk',
+        because: "I have a minimal site with cool looking links that automagically turns dark. Also, my avatar is weird!"
+    }
 ]
