@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Tandy';
     src:  url('/Px437_TandyOld_TV.ttf') format('truetype');
-  }
+}
 
 * {
     box-sizing: border-box;
@@ -25,9 +25,8 @@ p {
 }
 
 .list {
-    display: flex;
     align-items: center;
-    max-width: 800px;
+    max-width: 640px;
     margin: 0 auto;
     padding: 64px 0;
 }
@@ -42,19 +41,18 @@ p {
 .box {
     background: silver;
     box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
-    color: #222;
-    display: block;
-    font-size: 14px;
-    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 24px;
     min-height: 23px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
-    width: 50%;
+    width: 100%;
 }
 
 .box:active {
     box-shadow: inset -1px -1px #fff, inset 1px 1px #0a0a0a, inset -2px -2px #dfdfdf, inset 2px 2px grey;
-    padding: 18px 11px 0 6px 13px;
+    padding: 18px 22px 0 6px 16px;
 }
 
 .box:focus {
@@ -62,10 +60,42 @@ p {
     outline-offset: -6px;
 }
 
+.box .name {
+    color: teal;
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.box .because {
+    display: block;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #222;
+}
+
 .github {
     position: absolute;
     top: 0;
     right: 0;
+}
+
+#hit-counter {
+    background: black;
+    color: red;
+    font-family: Orbitron, sans-serif;
+    font-size: 18px;
+    display: inline-block;
+    padding: 2px 20px 3px;
+    letter-spacing: 5px;
+    text-decoration: none;
+    text-shadow: 0 0 10px red;
+    margin-top: 32px;
+}
+
+#hit-counter:hover {
+    color: greenyellow;
+    text-shadow: 0 0 10px greenyellow;
 }
 
 ::-webkit-scrollbar {
