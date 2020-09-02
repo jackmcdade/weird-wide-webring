@@ -114,5 +114,10 @@ let sites = [
         name: "Gregory Hammond",
         url: 'https://gregoryhammond.ca',
         because: "Canadian geek who is trying to be unbiased, yet still talk about tech."
+    },
+    {
+      name: "Lorenzo Bersano",
+      url: 'https://lorenzobersano.com',
+      because: "Defying the fixed nature of the Web"
     }
 ]
