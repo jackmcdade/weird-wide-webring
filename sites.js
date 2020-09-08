@@ -119,5 +119,10 @@ let sites = [
       name: "Lorenzo Bersano",
       url: 'https://lorenzobersano.com',
       because: "Defying the fixed nature of the Web"
+    },
+    {
+      name: "Rings around the Internet",
+      url: 'https://fanlistings.nickifaulk.com/webrings/',
+      because: "Because I'm a weirdo who loves webrings and this is a fansite dedicated to them."
     }
 ]
