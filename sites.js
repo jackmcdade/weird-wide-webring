@@ -124,5 +124,10 @@ let sites = [
       name: "Rings around the Internet",
       url: 'https://fanlistings.nickifaulk.com/webrings/',
       because: "Because I'm a weirdo who loves webrings and this is a fansite dedicated to them."
+    },
+    {
+        name: "Hoylecake",
+        url: 'https://hoylecake.neocities.org',
+        because: "Radiohead fanpage, stream-of-consciousness writing to vent, background music almost everywhere you go, a-and I guess my Medibang skills are alright."
     }
 ]
