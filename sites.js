@@ -125,9 +125,14 @@ let sites = [
       url: 'https://fanlistings.nickifaulk.com/webrings/',
       because: "Because I'm a weirdo who loves webrings and this is a fansite dedicated to them."
     },
-       {
+    {
       name: "Badly Drawn Ben",
       url: 'https://badlydrawnben.com/',
       because: "Unstable web design. Unnecessary animation. Unsafe box-cutting implements."
+    },
+    {
+      name: "Wyatt Castaneda",
+      url: 'https://wyattblogs.com/',
+      because: "Blogs are like trail mix, little of this, little of that."
     }
 ]
