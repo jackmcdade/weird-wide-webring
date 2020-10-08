@@ -135,4 +135,9 @@ let sites = [
       url: 'https://wyattblogs.com/',
       because: "Blogs are like trail mix, little of this, little of that."
     }
+     {
+      name: "Vern's World",
+      url: 'https://verns.world/',
+      because: "I love the old internet and want it to go back that way ever so much. Also because my website kicks ass."
+    }
 ]
