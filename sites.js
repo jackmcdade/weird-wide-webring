@@ -139,5 +139,10 @@ let sites = [
       name: "Vern's World",
       url: 'https://verns.world/',
       because: "I love the old internet and want it to go back that way ever so much. Also because my website kicks ass."
+    },
+    {
+      name: "Biebersoft",
+      url: 'http://biebersoft.tk/',
+      because: "I bring back the videogame spoofs like its 1999 - Website recreated like webrings never went out of style."
     }
 ]
