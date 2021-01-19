@@ -149,5 +149,10 @@ let sites = [
         name: "Dennis Mai",
         url: 'https://www.dennismai.dev',
         because: "Shamelessly Strange. Embarassingly Authentic."
+    },
+    {
+        name: "erick david",
+        url: 'https://erickdavid.studio',
+        because: "Too young to miss Geocities."
     }
 ]
