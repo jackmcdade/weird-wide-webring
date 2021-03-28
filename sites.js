@@ -159,5 +159,11 @@ let sites = [
         name: "Sadness",
         url: 'https://sadgrl.online',
         because: "The internet is too boring nowadays."
+    },
+    {
+      name: "Biebersoft.net",
+      url: 'http://biebersoft.net/',
+      because: "I bring back the videogame spoofs like its 1999 - Now with BETA HTML5 arcade!"
     }
+    
 ]
