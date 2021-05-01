@@ -152,7 +152,7 @@ let sites = [
     },
     {
         name: "erick david",
-        url: 'https://erickdavid.studio',
+        url: 'https://erickdavid.net',
         because: "Too young to miss Geocities."
     },
     {
