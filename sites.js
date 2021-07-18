@@ -169,5 +169,10 @@ let sites = [
       name: "Kev Quirk",
       url: 'https://kevq.uk',
       because: "A very blue site, like a deep ocean of meandering thought; but also a cool avatar (try hovering over it)."
-  }
+    },
+    {
+        name: "leihu",
+        url: "https://leihu.com",
+        because: "Been weird for 21 years over 67 redesigns. Weird drawings, and stories!"
+    }
 ]
