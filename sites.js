@@ -174,5 +174,10 @@ let sites = [
         name: "leihu",
         url: "https://leihu.com",
         because: "Been weird for 21 years over 67 redesigns. Weird drawings, and stories!"
+    },
+    {
+        name: "Kenny Horna",
+        url: "https://kennyhorna.com",
+        because: "We Latin Americans are also weird. I blog about software development & stories about myself."
     }
 ]
