@@ -174,5 +174,10 @@ let sites = [
         name: "leihu",
         url: "https://leihu.com",
         because: "Been weird for 21 years over 67 redesigns. Weird drawings, and stories!"
+    },
+    {
+        name: "chovy",
+        url: "https://chovy.neocities.org",
+        because: "Adventures in boondocking and overlanding"
     }
 ]
