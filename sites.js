@@ -175,4 +175,9 @@ let sites = [
         url: "https://leihu.com",
         because: "Been weird for 21 years over 67 redesigns. Weird drawings, and stories!"
     }
+    {
+        name: "uncertainquark"
+        url: "https://jatan.space"
+        because: "Lots of unique content, and abuses the same CSS animation in different ways!"
+    }
 ]
