@@ -179,5 +179,10 @@ let sites = [
         name: "chovy",
         url: "https://chovy.neocities.org",
         because: "Adventures in boondocking and overlanding"
+    },
+    {
+        name: "Th Sound of the Far Future",
+        url: "https://jimkang.com/sound-of-the-far-future/",
+        because: "A browser performing music that tells you about the future."
     }
 ]
