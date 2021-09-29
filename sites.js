@@ -184,5 +184,10 @@ let sites = [
         name: "Tommi’s space",
         url: "https://tommi.space",
         because: "A messy representation of an even messier mind!"
+    },
+    {
+        name: "xpil",
+        url: "https://xpil.eu",
+        because: "Because Kev Quirk, obviously!"
     }
 ]
