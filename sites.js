@@ -184,5 +184,10 @@ let sites = [
         name: "Tommi’s space",
         url: "https://tommi.space",
         because: "A messy representation of an even messier mind!"
+    },
+    {
+        name: "No Wrestling On Island",
+        url: "https://nowrestlingonisland.com/",
+        because: "Prosaic amusements in lovingly hand-crafted HTML - be sure to try insanity mode!"
     }
 ]
