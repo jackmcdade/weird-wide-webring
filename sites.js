@@ -11,7 +11,7 @@ let sites = [
     },
 {
         name: "Catdrout",
-        url: 'https://catdrout.gatsbyjs.org/',
+        url: 'https://catdrout.gatsbyjs.io/',
         because: "i have a very unusial name
     },
     {
