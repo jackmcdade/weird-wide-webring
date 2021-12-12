@@ -9,11 +9,6 @@ let sites = [
         url: 'https://www.mightyfinecopy.com/',
         because: "Colors! Words! Ideas!"
     },
-{
-        name: "Catdrout",
-        url: 'https://catdrout.gatsbyjs.io/',
-        because: "i have a very unusial name
-    },
     {
         name: "Paul Jarvis",
         url: 'https://pjrvs.com',
@@ -194,5 +189,10 @@ let sites = [
         name: "fLaMEdFury",
         url: "https://flamedfury.com",
         because: ""My personal homepage, full of stuff that means everything to me, and nothing to you. fLaMEdFury draws inspiration from a web that existed 20 years ago!"
+    },
+    {
+        name: "Catdrout",
+        url: 'https://catdrout.gatsbyjs.io/',
+        because: "i have a very unusual name
     }
 ]
