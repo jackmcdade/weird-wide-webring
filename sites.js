@@ -14,6 +14,11 @@ let sites = [
         url: 'https://pjrvs.com',
         because: "Articles with a powerfully unique perspective"
     },
+     {
+        name: "Mousedown",
+        url: 'https://mousdown.netlify.app/',
+        because: "The URL is missing a e in the first word"
+    },
     {
         name: "Luigi Battaglioli",
         url: 'https://theluigi.com',
