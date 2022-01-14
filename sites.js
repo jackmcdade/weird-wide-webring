@@ -190,4 +190,9 @@ let sites = [
         url: "https://flamedfury.com",
         because: "My personal homepage, full of stuff that means everything to me, and nothing to you. fLaMEdFury draws inspiration from a web that existed 20 years ago!"
     }
+    {
+        name: "ryan's hallways",
+        url: "https://vastrecs.neocities.org/",
+        because: "my personal website, but if the website was also a roleplay of the visitor stumbling across a weird hallway full of mismatched doors while the webmaster roleplays as a funky mysterious entity living within them"
+    }
 ]
