@@ -81,6 +81,11 @@ let sites = [
         because: "Five all-beef patties, special sauce, lettuce, chee—"
     },
     {
+        name: "Haxi",
+        url: 'https://haxi.viw.se',
+        because: "Only 3 colors Blue Black and white."
+    },
+    {
         name: "Dave Smyth",
         url: 'https://davesmyth.com',
         because: "Font switcher. Colours. Side projects."
