@@ -185,4 +185,8 @@ let sites = [
         url: "https://flamedfury.com",
         because: "My personal homepage, full of stuff that means everything to me, and nothing to you. fLaMEdFury draws inspiration from a web that existed 20 years ago!"
     }
+        name: "Pixouls",
+        url: "https://www.pixouls.xyz",
+        because: "A hobby mycologist, a renewables researcher. Featuring: beading, digital art, and other fun projects"
+    }
 ]
