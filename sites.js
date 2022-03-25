@@ -184,5 +184,10 @@ let sites = [
         name: "fLaMEdFury",
         url: "https://flamedfury.com",
         because: "My personal homepage, full of stuff that means everything to me, and nothing to you. fLaMEdFury draws inspiration from a web that existed 20 years ago!"
+    },
+    {
+        name: "Amyot's Green Website",
+        url: "https://temaisgame.neocities.org",
+        because: "My personal website, the web should be personal again and weird in someway."
     }
 ]
