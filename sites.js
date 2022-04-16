@@ -1,5 +1,10 @@
 let sites = [
     {
+        name: "Obspogon",
+        url: 'https://obspogon.neocities.org',
+        because: "I have pages on Doom, Quake, and some other games recommending how to get in and play their mods, along with a massive list of cool mods for each."
+    },
+    {
         name: "Jack McDade",
         url: 'https://jackmcdade.com',
         because: "You'll know."
