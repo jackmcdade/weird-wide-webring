@@ -184,5 +184,10 @@ let sites = [
         name: "fLaMEdFury",
         url: "https://flamedfury.com",
         because: "My personal homepage, full of stuff that means everything to me, and nothing to you. fLaMEdFury draws inspiration from a web that existed 20 years ago!"
+    },
+    {
+        name: "Heavy Metal Music Reviews",
+        url: "https://heavymetalmusic.reviews",
+        because: "I review music that normal people consider weird, scary, and unholy."
     }
 ]
