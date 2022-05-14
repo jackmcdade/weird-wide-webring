@@ -189,4 +189,5 @@ let sites = [
         name: "NeoVoid's Site",
         url: "https://neovoid.tk",
         because: "My personal space, where I can be anything I want and can proudly say I love pineapples!"
+    }
 ]
