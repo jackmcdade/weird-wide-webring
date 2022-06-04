@@ -185,4 +185,9 @@ let sites = [
         url: "https://flamedfury.com",
         because: "My personal homepage, full of stuff that means everything to me, and nothing to you. fLaMEdFury draws inspiration from a web that existed 20 years ago!"
     }
+    {
+        name: "Wildcat",
+        url: "https://astrowildcat.neocities.org/home/",
+        because: "If I'm not the one making historical furry content, then who will?"
+    }
 ]
