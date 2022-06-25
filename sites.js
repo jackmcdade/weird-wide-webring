@@ -14,6 +14,11 @@ let sites = [
         url: 'https://pjrvs.com',
         because: "Articles with a powerfully unique perspective"
     },
+        {
+        name: "Catdrout",
+        url: 'https://www.catdrout.xyz',
+        because: "The website is a operating system"
+    },
     {
         name: "Luigi Battaglioli",
         url: 'https://theluigi.com',
