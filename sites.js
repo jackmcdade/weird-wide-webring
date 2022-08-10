@@ -184,5 +184,11 @@ let sites = [
         name: "fLaMEdFury",
         url: "https://flamedfury.com",
         because: "My personal homepage, full of stuff that means everything to me, and nothing to you. fLaMEdFury draws inspiration from a web that existed 20 years ago!"
+    },
+    {
+        name: "alephalpha0",
+        url: "https://alephalpha0.mataroa.blog",
+        because: "I'm a late-30s gay Texan who tries to write in my techno-journal about my current fave addictions: technology, meth, and time-travelling."
     }
+
 ]
