@@ -1,6 +1,8 @@
 # Weird Wide Webring
 The web needs a little more weird. These sites are helping.
 
+> THIS PROJECT HAS BEEN RETIRED. CHECK OUT [MY DISCUSSION](https://github.com/jackmcdade/weird-wide-webring/discussions) TO LEARN WHY. THANKS FOR THE GOOD TIMES!
+
 ## Requirements for joining
 
 Your site must be unique and weird in some way. It can be the way it looks. It can be the way you write or what you write about. It can be the way it smells. It can be the way your footer is covered in feet, your sidebar has a sidebartender, or blog is spelled "blag". But there must be something.
